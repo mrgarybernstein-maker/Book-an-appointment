@@ -2,7 +2,7 @@
   "title": "Book an appointment",
   "subtitle": "Please fill in all fields marked with *",
   "submitLabel": "Submit",
-  "sheetsURL": "https://script.google.com/macros/s/AKfycbw_EeWeEDXGI-iQCpVnVZrewqLoi1wNOW3C1-_WZQM1PCOa18yaPiOAibQVD9swYvL4lQ/exec",
+  "sheetsURL": "https://script.google.com/macros/s/AKfycbx9DX-eEr5UWw9ai0hTUAh3G6kV25y1pwbNttdkXQZAY-KkU6SkhlPgLeEGbsxhYu78/exec",
   "fields": [
     {
       "id": "booking-for",
